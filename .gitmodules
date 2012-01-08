@@ -1,0 +1,42 @@
+[submodule "sites/all/modules/gist_filter"]
+	path = sites/all/modules/gist_filter
+	url = git://git.drupal.org/project/gist_filter.git
+[submodule "sites/all/modules/markdown"]
+	path = sites/all/modules/markdown
+	url = git://git.drupal.org/project/markdown.git
+[submodule "sites/all/modules/l10n_client"]
+	path = sites/all/modules/l10n_client
+	url = git://git.drupal.org/project/l10n_client.git
+[submodule "sites/all/modules/l10n_update"]
+	path = sites/all/modules/l10n_update
+	url = git://git.drupal.org/project/l10n_update.git
+[submodule "sites/all/modules/disqus"]
+	path = sites/all/modules/disqus
+	url = git://git.drupal.org/project/disqus.git
+[submodule "sites/all/modules/doabarrelroll"]
+	path = sites/all/modules/doabarrelroll
+	url = git://git.drupal.org/project/doabarrelroll.git
+[submodule "sites/all/modules/gravatar"]
+	path = sites/all/modules/gravatar
+	url = git://git.drupal.org/project/gravatar.git
+[submodule "sites/all/modules/pathauto"]
+	path = sites/all/modules/pathauto
+	url = git://git.drupal.org/project/pathauto.git
+[submodule "sites/all/modules/redirect"]
+	path = sites/all/modules/redirect
+	url = git://git.drupal.org/project/redirect.git
+[submodule "sites/all/modules/token"]
+	path = sites/all/modules/token
+	url = git://git.drupal.org/project/token.git
+[submodule "sites/all/modules/transliteration"]
+	path = sites/all/modules/transliteration
+	url = git://git.drupal.org/project/transliteration.git
+[submodule "sites/all/modules/captcha"]
+	path = sites/all/modules/captcha
+	url = git://git.drupal.org/project/captcha.git
+[submodule "sites/all/modules/recaptcha"]
+	path = sites/all/modules/recaptcha
+	url = git://git.drupal.org/project/recaptcha.git
+[submodule "sites/all/themes/corolla"]
+	path = sites/all/themes/corolla
+	url = git://git.drupal.org/project/corolla.git
