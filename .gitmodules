@@ -40,3 +40,6 @@
 [submodule "sites/all/themes/corolla"]
 	path = sites/all/themes/corolla
 	url = git://git.drupal.org/project/corolla.git
+[submodule "sites/all/themes/bartiky"]
+	path = sites/all/themes/bartiky
+	url = git://github.com/barraponto/bartiky.git
