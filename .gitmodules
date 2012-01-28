@@ -52,3 +52,6 @@
 [submodule "sites/all/modules/views_bulk_operations"]
 	path = sites/all/modules/views_bulk_operations
 	url = git://git.drupal.org/project/views_bulk_operations.git
+[submodule "sites/all/modules/ctools"]
+	path = sites/all/modules/ctools
+	url = git://git.drupal.org/project/ctools.git
