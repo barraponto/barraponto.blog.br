@@ -3,7 +3,7 @@
 	url = git://git.drupal.org/project/gist_filter.git
 [submodule "sites/all/modules/markdown"]
 	path = sites/all/modules/markdown
-	url = git://git.drupal.org/project/markdown.git
+	url = git://github.com/barraponto/drupal-markdown-module.git
 [submodule "sites/all/modules/l10n_client"]
 	path = sites/all/modules/l10n_client
 	url = git://git.drupal.org/project/l10n_client.git
