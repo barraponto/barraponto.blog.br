@@ -64,3 +64,9 @@
 [submodule "sites/all/modules/omega_tools"]
 	path = sites/all/modules/omega_tools
 	url = git://git.drupal.org/project/omega_tools.git
+[submodule "sites/all/modules/i18n"]
+	path = sites/all/modules/i18n
+	url = git://git.drupal.org/project/i18n.git
+[submodule "sites/all/modules/variable"]
+	path = sites/all/modules/variable
+	url = git://git.drupal.org/project/variable.git
