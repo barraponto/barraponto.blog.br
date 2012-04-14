@@ -73,3 +73,6 @@
 [submodule "sites/all/libraries/markdown"]
 	path = sites/all/libraries/markdown
 	url = git://github.com/michelf/php-markdown
+[submodule "sites/all/modules/libraries"]
+	path = sites/all/modules/libraries
+	url = git://git.drupal.org/project/libraries.git
