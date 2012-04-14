@@ -70,3 +70,6 @@
 [submodule "sites/all/modules/variable"]
 	path = sites/all/modules/variable
 	url = git://git.drupal.org/project/variable.git
+[submodule "sites/all/libraries/markdown"]
+	path = sites/all/libraries/markdown
+	url = git://github.com/michelf/php-markdown
