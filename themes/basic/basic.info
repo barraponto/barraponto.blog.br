@@ -1,0 +1,9 @@
+name = barraponto.blog.br
+description = Default theme for barraponto.blog.br
+
+engine = phptemplate
+base theme = kalatheme
+core = 7.x
+php = 5.2
+
+stylesheets[all][] = styles.css
